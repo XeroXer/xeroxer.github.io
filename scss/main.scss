@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+$base-font-family: 'Open Sans', sans-serif;
+
+@import "../bower_components/inuit.css/inuit";
+@import "../bower_components/susy/sass/susy";
+
+body {
+    @include container(80em);
+}
+.home .posts {
+    @include span(75%);
+}
+.home .contact {
+    @include span(25%);
+}

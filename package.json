@@ -1,0 +1,9 @@
+{
+  "name": "utvecklat",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-sass": "^0.7.3"
+  }
+}
